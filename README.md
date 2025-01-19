@@ -4,7 +4,7 @@ My name is Marta and I am a Full Stack developer passionate about creating digit
 
 Currently, my focus is on designing and building digital products that are optimized, accessible and focused on user experience, while continuing to explore new tools and trends in web development.
 
-🧠 Skills.
+🧠 Skills<br>
 - Full Stack Development (Frontend and Backend)
 - User-centered development
 - Problem solving and process optimization
@@ -12,13 +12,14 @@ Currently, my focus is on designing and building digital products that are optim
 - Creative and critical thinking
 - Teamwork and project management
 
-🚀 Technologies.
+🚀 Technologies <br>
+
 📌 JavaScript (ES6+), Node.js, React.js, Express.js, MongoDB, HTML, CSS, Vite
 
-⚙️ Tools
+⚙️ Tools<br>
 📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
 
-👩🏻‍💻 Personal Interests
+👩🏻‍💻 Personal Interests<br>
 ✨ In my free time, I enjoy working on projects that combine design and functionality, and connecting with the tech community to keep myself updated in this exciting world of development.
 ✨ Also, I'm a design lover, I love spending time with my dog 🐾 and discovering new cultures by traveling.
 
