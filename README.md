@@ -33,7 +33,7 @@ Currently, my focus is on designing and building digital products that are optim
   &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
 &emsp;
-  <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.cj-43853D?logo=express.js&logoColor=white&color=%230E1117"></a>
+  <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D?logo=express&logoColor=white&color=%230E1117"></a>
 </p>
 
 
