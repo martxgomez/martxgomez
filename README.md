@@ -32,6 +32,11 @@ Currently, my focus is on designing and building digital products that are optim
   <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"></a>
   &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+                                     &emsp;
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-1F3293.svg?logo=netlify&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+ 
 &emsp;
   <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D?logo=express&logoColor=white&color=%230E1117"></a>
 </p>
@@ -45,12 +50,6 @@ Currently, my focus is on designing and building digital products that are optim
   <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-0F7E57.svg?logo=cypress&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182.svg?logo=jasmine&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-1F3293.svg?logo=netlify&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
- </p>
- <p>
   &emsp;
   <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
