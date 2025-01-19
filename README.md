@@ -15,17 +15,17 @@ Currently, my focus is on designing and building digital products that are optim
 - Creative and critical thinking
 - Teamwork and project management
 
-
+<br>
 🚀 Technologies <br>
 
 📌 JavaScript (ES6+), Node.js, React.js, Express.js, MongoDB, HTML, CSS, Vite
 
-
+<br>
 ⚙️ Tools<br>
 
 📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
 
-
+<br>
 👩🏻‍💻 Personal Interests<br>
 
 ✨ In my free time, I enjoy working on projects that combine design and functionality, and connecting with the tech community to keep myself updated in this exciting world of development.<br>
