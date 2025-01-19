@@ -44,7 +44,7 @@ Currently, my focus is on designing and building digital products that are optim
 
 
 ### ⚙️ Software & Tools
-<p>
+<p align="left"> 
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?logo=vs-code&logoColor=white"></a>
 &emsp;
@@ -55,7 +55,9 @@ Currently, my focus is on designing and building digital products that are optim
   <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
+</p>
+<p align="left"> 
+&emsp;
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?logo=windows&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-ffffff?logo=windows&logoColor=2d2d2d"></a>
