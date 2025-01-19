@@ -1,5 +1,37 @@
 ## Hi there 👋
 
+My name is Marta and I am a Full Stack developer passionate about creating digital experiences that make a difference. My interest in web development began when I decided to complement my training in Industrial Design Engineering with the most advanced technologies for web application development. This path led me to study at the Ironhack bootcamp, where I delved into Fullstack MERN and developed projects that combine creativity and functionality.
+
+Currently, my focus is on designing and building digital products that are optimized, accessible and focused on user experience, while continuing to explore new tools and trends in web development.
+
+🧠 Skills.
+- Full Stack Development (Frontend and Backend)
+- User-centered development
+- Problem solving and process optimization
+- Agile methodologies
+- Creative and critical thinking
+- Teamwork and project management
+
+🚀 Technologies.
+📌 JavaScript (ES6+), Node.js, React.js, Express.js, MongoDB, HTML, CSS, Vite
+
+⚙️ Tools
+📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
+
+👩🏻‍💻 Personal Interests
+✨ In my free time, I enjoy working on projects that combine design and functionality, and connecting with the tech community to keep myself updated in this exciting world of development.
+✨ Also, I'm a design lover, I love spending time with my dog 🐾 and discovering new cultures by traveling.
+
+📩 Contact.
+I'm always open to connect and collaborate on interesting projects. You can contact me directly through my email: martagomez.code@gmail.com. It will be a pleasure to chat with you!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martxgomez)]
+
+
+
+
+
+
 <!--
 **martxgomez/martxgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
