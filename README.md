@@ -28,16 +28,17 @@ Currently, my focus is on designing and building digital products that are optim
   <a href="https://react.com"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
   &emsp;
   <a href="https://nodejs.org"><img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
- &emsp;
+</p>
+<p align="left"> 
+&emsp;
   <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-                                     &emsp;
+&emsp;
+<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+&emsp;
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-1F3293.svg?logo=netlify&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
- 
-&emsp;
+ &emsp;
   <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D?logo=express&logoColor=white&color=%230E1117"></a>
 </p>
 
