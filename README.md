@@ -8,22 +8,52 @@ Currently, my focus is on designing and building digital products that are optim
 
 
 ### 🧠 Skills
-- Full Stack Development (Frontend and Backend)
+- Full Stack Development
 - User-centered development
 - Problem solving and process optimization
-- Agile methodologies
 - Creative and critical thinking
-- Teamwork and project management
 
 
 ### 🚀 Technologies 
+<p align="left"> 
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
+ &emsp;
+  <a href="https://vitejs.dev/" target="_blank"> <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE.svg?style=flat&logo=vite&logoColor=FFD62E"/></a>
+ &emsp;
+  <a href="https://react.com"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+  &emsp;
+  <a href="https://nodejs.org"><img alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
+ &emsp;
+  <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+&emsp;
+  <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js?logoColor=white&color=%230E1117"></a>
+</p>
 
-📌 JavaScript (ES6+), Node.js, React.js, Express.js, MongoDB, HTML, CSS, Vite
 
 
 ### ⚙️ Tools
 
 📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
+
+### ✍🏼 Graphic Designing
+
+<p align="left">
+  &emsp;
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/></a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Photoshop-%2300f.svg?style=flat&logo=adobephotoshop&logoColor=white"/></a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe InDesign-%23430098.svg?style=flat&logo=adobepremierepro&logoColor=white"/></a>
+  &emsp;
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/></a>
+ </p>
 
 
 ### 👩🏻‍💻 Personal Interests
