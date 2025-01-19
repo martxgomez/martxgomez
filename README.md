@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Marta and I am a Full Stack developer passionate about creating digital experiences that make a difference. My interest in web development began when I decided to complement my training in Industrial Design Engineering with the most advanced technologies for web application development. This path led me to study at the Ironhack bootcamp, where I delved into Fullstack MERN and developed projects that combine creativity and functionality.
+My name is Marta and I am a Full Stack developer passionate about creating digital experiences that make a difference. My interest in web development began when I decided to complement my training in Industrial Design Engineering with the most advanced technologies for web application development. This path led me to study at the Ironhack bootcamp, where I dived into Fullstack MERN and developed projects that combine creativity and functionality.
 
-Currently, my focus is on designing and building digital products that are optimized, accessible and focused on user experience, while continuing to explore new tools and trends in web development.
+Currently, my focus is on designing and building digital products that are optimized, accessible and user experience centered, while continuing to explore new tools and trends in web development.
 
 ##
 
@@ -33,14 +33,38 @@ Currently, my focus is on designing and building digital products that are optim
   &emsp;
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
 &emsp;
-  <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.js?logoColor=white&color=%230E1117"></a>
+  <a href="https://expressjs.com"><img alt="Express.js" src="https://img.shields.io/badge/Express.cj-43853D?logo=express.js&logoColor=white&color=%230E1117"></a>
 </p>
 
 
+### ⚙️ Software & Tools
+<p>
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?logo=vs-code&logoColor=white"></a>
+&emsp;
+  <a href="#"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-0F7E57.svg?logo=cypress&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182.svg?logo=jasmine&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-1F3293.svg?logo=netlify&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+ </p>
+ <p>
+  &emsp;
+  <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7?logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Apple" src="https://img.shields.io/badge/Apple-ffffff?logo=windows&logoColor=2d2d2d"></a>
+ &emsp;
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+</p>
 
-### ⚙️ Tools
-
-📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
 
 ### ✍🏼 Graphic Designing
 
