@@ -7,7 +7,7 @@ Currently, my focus is on designing and building digital products that are optim
 ##
 
 
-🧠 Skills
+#🧠 Skills
 - Full Stack Development (Frontend and Backend)
 - User-centered development
 - Problem solving and process optimization
@@ -16,17 +16,17 @@ Currently, my focus is on designing and building digital products that are optim
 - Teamwork and project management
 
 
-🚀 Technologies 
+#🚀 Technologies 
 
 📌 JavaScript (ES6+), Node.js, React.js, Express.js, MongoDB, HTML, CSS, Vite
 
 
-⚙️ Tools
+#⚙️ Tools
 
 📌 Git, GitHub, Cypress, Jasmine, Netlify, Vercel
 
 
-👩🏻‍💻 Personal Interests
+#👩🏻‍💻 Personal Interests
 
 ✨ In my free time, I enjoy working on projects that combine design and functionality, and connecting with the tech community to keep myself updated in this exciting world of development.
 
@@ -34,7 +34,7 @@ Currently, my focus is on designing and building digital products that are optim
 
 ##
 
-📩 Contact.
+#📩 Contact.
 I'm always open to connect and collaborate on interesting projects. You can contact me directly through my email: martagomez.code@gmail.com. It will be a pleasure to chat with you!
 
 ##
