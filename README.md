@@ -25,8 +25,10 @@ Currently, my focus is on designing and building digital products that are optim
 📩 Contact.
 I'm always open to connect and collaborate on interesting projects. You can contact me directly through my email: martagomez.code@gmail.com. It will be a pleasure to chat with you!
 
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martxgomez)
 ![Marta GitHub stats](https://github-readme-stats.vercel.app/api?username=martxgomez&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martxgomez&layout=compact)
+
 
 
 
