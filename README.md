@@ -4,6 +4,9 @@ My name is Marta and I am a Full Stack developer passionate about creating digit
 
 Currently, my focus is on designing and building digital products that are optimized, accessible and focused on user experience, while continuing to explore new tools and trends in web development.
 
+##
+
+
 🧠 Skills<br>
 - Full Stack Development (Frontend and Backend)
 - User-centered development
@@ -25,6 +28,8 @@ Currently, my focus is on designing and building digital products that are optim
 
 📩 Contact.
 I'm always open to connect and collaborate on interesting projects. You can contact me directly through my email: martagomez.code@gmail.com. It will be a pleasure to chat with you!
+
+##
 
 <a href="https://github.com/martxgomez/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martxgomez&show_icons=true" />
