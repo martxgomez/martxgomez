@@ -29,7 +29,7 @@ I'm always open to connect and collaborate on interesting projects. You can cont
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martxgomez&show_icons=true" />
 </a>
 <a href="https://github.com/martxgomez/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martxgomez&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martxgomez&layout=compact" />
 </a>
 
 
