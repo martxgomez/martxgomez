@@ -25,19 +25,12 @@ Currently, my focus is on designing and building digital products that are optim
 📩 Contact.
 I'm always open to connect and collaborate on interesting projects. You can contact me directly through my email: martagomez.code@gmail.com. It will be a pleasure to chat with you!
 
-<a href="https://github.com/SrGobi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=github-readme-stats" />
+<a href="https://github.com/martxgomez/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martxgomez&show_icons=true" />
 </a>
-<a href="https://github.com/SrGobi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrGobi&repo=convoychat" />
+<a href="https://github.com/martxgomez/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martxgomez&layout=compact" />
 </a>
-![Marta GitHub stats](https://github-readme-stats.vercel.app/api?username=martxgomez&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martxgomez&layout=compact)
-
-
-
-
 
 
 
